@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Quiz App
+//  Quiz
 //
-//  Created by James Walker on 1/28/16.
+//  Created by James Walker on 1/25/16.
 //  Copyright © 2016 Mobile Application Development. All rights reserved.
 //
 
